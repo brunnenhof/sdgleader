@@ -1,1 +1,17 @@
+color_scheme:
+  colors:
+  - {color: '#D9365E', name: Primary}
+  - {color: 'rgba(29, 27, 32, 0.38)', name: On Disabled}
+  - {color: 'rgba(29, 27, 32, 0.12)', name: Disabled Container}
+  - {color: '#822038', name: Primary darker}
+  - {color: '#e8869e', name: Primary lighter}
+  - {color: '#FFA421', name: Secondary}
+  - {color: '#996214', name: Secondary darker}
+  - {color: '#ffc87a', name: Secondary lighter}
+  - {color: '#EADDFF', name: Primary Container}
+  - {color: '#FFFFFF', name: On Primary}
+  - {color: '#E8DEF8', name: Secondary Container}
+  - {color: '#FFFFFF', name: On Secondary}
+  - {color: '#7D5260', name: Tertiary}
+  preset_groups: []
 roles: []
