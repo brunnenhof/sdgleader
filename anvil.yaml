@@ -3,11 +3,11 @@ dependencies:
 - config: {}
   dep_id: dep_lin1x4oec0ytd
   resolution_hints: {app_id: 4UK6WHQ6UX7AKELK, name: Material 3 Theme, package_name: m3}
-  version: {version_tag: v1.2.1}
-metadata: {logo_img: 'asset:favicon.ico', title: SDG Game Leader}
-name: leader
+  version: {version_tag: v1.2.2}
+metadata: {logo_img: 'asset:favicon.ico', title: SDG Game}
+name: SDGgame
 native_deps: null
-package_name: leader
+package_name: SDGgame
 runtime_options:
   client_version: '3'
   server_spec: {base: python310-minimal}
